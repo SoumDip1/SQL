@@ -1,4 +1,4 @@
--- SELECT Employee_id, FIRST_NAME, Salary FROM HR.EMPLOYEES where salary>10000
+SELECT Employee_id, FIRST_NAME, Salary FROM HR.EMPLOYEES where salary>10000
 
 -- ****ARITHMATIC OPERATORS****
 
