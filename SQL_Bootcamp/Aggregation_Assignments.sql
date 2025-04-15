@@ -257,4 +257,4 @@ select PROMO_ID, sum(amount_sold) as total_revenue
 from sh.sales
 group by PROMO_ID;
 
--- ****Question number 11 from hr.employee table and question number 09 from sh.sales table are not cleared****
+-- ****Question number 11 and 18 from hr.employee table and question number 09 from sh.sales table are not cleared****
